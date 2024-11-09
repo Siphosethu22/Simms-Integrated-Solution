@@ -1,8 +1,8 @@
 # Simms Integrated Solutions.cc Company Website
 
-Designed and developed a responsive website template specifically tailored for a local welding business in the GTA using HTML, CSS/Bootstrap, and Javascript.
+Designed and developed a responsive website template specifically tailored for a local welding business in Namibia using HTML, CSS/Bootstrap, and Javascript.
 
-**See the website here:** https://www.xtraweld.ca/
+**See the website here:** https://www.sisccwb.vercel.app
 
 ### Website Demo on Chrome Web Broswer:
 

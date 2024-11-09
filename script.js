@@ -40,7 +40,7 @@ navToggle.addEventListener('click', () => {
 
 })
 
-document.getElementById('mobile-header-title').innerHTML = 'WELDING SERVICES\nIN THE GTA <br><button onclick=window.location.href="#services-anchor" id="services-btn" class="btn px-3 py-2">OUR SERVICES</button><button id="contact-btn" class="btn px-3 py-2" onclick=window.location.href="#contact-anchor">CONTACT US</button>';
+document.getElementById('mobile-header-title').innerHTML = 'Simms Integrated\ Solutions <br><button onclick=window.location.href="#services-anchor" id="services-btn" class="btn px-3 py-2">OUR SERVICES</button><button id="contact-btn" class="btn px-3 py-2" onclick=window.location.href="#contact-anchor">CONTACT US</button>';
 
 
 // Carousel
